@@ -11,4 +11,4 @@ Plan:
 * Try to do some improvements / something different than the paper.
 * Provide reasonging for the suggested changes.
 * See if they change / improve performance in any way.
-* Can create a pull request in offical Unet git repo and suggest changes/
+* Can create a pull request in offical Unet git repo and suggest changes
